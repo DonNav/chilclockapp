@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/ChildClockApp">
+<file alias="main.qml">/home/donatien/Travail/ChildClockApp/main.qml</file>
+</qresource>
+</RCC>

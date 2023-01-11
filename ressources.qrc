@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>src/dauwn_img.png</file>
+        <file>src/day_img.png</file>
+        <file>src/sleeping_img.png</file>
+    </qresource>
+</RCC>
